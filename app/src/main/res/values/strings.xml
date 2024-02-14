@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MVVMSteamDB</string>
+    <string name="CheapShark">Informacion sobre CheapShark</string>
+    <string name="CheapSharkInfo">CheapShark es un sitio web de comparación de precios para juegos digitales para PC. Realiza seguimiento de los precios en varias tiendas, incluidas Steam, GreenManGaming, Fanatical y muchas otras.
+    Ofrece una API pública completamente documentada para que los desarrolladores utilicen los datos de precios de CheapShark en su propia aplicación o sitio web.</string>
+</resources>
